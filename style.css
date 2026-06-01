@@ -39,7 +39,7 @@ main {
 
 .hero {
   background: linear-gradient(rgba(47, 79, 79, 0.75), rgba(47, 79, 79, 0.75)),
-              url("Bilder/Pisa.jpg");
+              url("Pisa.jpg");
   background-size: cover;
   background-position: center;
   color: white;
