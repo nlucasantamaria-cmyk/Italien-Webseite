@@ -1,10 +1,10 @@
 :root {
-  --bg-color: #f5f5f5;
-  --text-color: #2f4f4f;
-  --card-color: #ffffff;
-  --header-color: #d3d3d3;
-  --nav-color: #2f4f4f;
-  --accent-color: #c0392b;
+  --bg-color: rgb(245, 245, 245);
+  --text-color: rgb(47, 79, 79);
+  --card-color: rgb(255, 255, 255);
+  --header-color: rgb(211, 211, 211);
+  --nav-color: rgb(47, 79, 79);
+  --accent-color: rgb(192, 57, 43);
   --shadow: 0 8px 25px rgba(0, 0, 0, 0.12);
 }
 
